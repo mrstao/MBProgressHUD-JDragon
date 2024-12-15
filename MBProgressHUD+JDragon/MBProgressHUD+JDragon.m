@@ -15,6 +15,8 @@
     
     MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:view animated:YES];
     
+    hud.contentColor = UIColor.whiteColor;
+    
     // 设置提示文字
     hud.label.text = message ? message : @"加载中.....";
     hud.label.font = [UIFont systemFontOfSize:15];
@@ -22,7 +24,10 @@
     // 配置 HUD 属性
     hud.removeFromSuperViewOnHide = YES;
     hud.backgroundView.style = MBProgressHUDBackgroundStyleSolidColor;
-    hud.backgroundView.color = [[UIColor blackColor] colorWithAlphaComponent:0.1];
+    hud.backgroundView.color = UIColor.clearColor;
+    
+    hud.bezelView.style = MBProgressHUDBackgroundStyleSolidColor;
+    hud.bezelView.color = UIColor.blackColor;
     
     return hud;
 }
