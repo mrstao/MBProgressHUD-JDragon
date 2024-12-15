@@ -1,6 +1,6 @@
 {
   "name": "MBProgressHUD+JDragon",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "MBProgressHUD 封装",
   "description": "MBProgressHUD 简单封装",
   "homepage": "https://github.com/lyc59621//MBProgressHUD-JDragon",
@@ -9,17 +9,17 @@
     "JDragon": "lyc59621@icloud.com"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
   "source": {
     "git": "https://github.com/lyc59621/MBProgressHUD-JDragon.git",
-    "tag": "0.0.1"
+    "tag": "0.0.5"
   },
   "source_files": "MBProgressHUD+JDragon/*.{h,m}",
   "resources": "MBProgressHUD+JDragon/MBProgressHUD+JDragon.bundle",
   "dependencies": {
     "MBProgressHUD": [
-      "~> 0.9.2"
+      "~> 1.2.0"
     ]
   },
   "requires_arc": true
