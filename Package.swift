@@ -12,7 +12,7 @@ let package = Package(
             targets: ["MBProgressHUD-JDragon"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/jdg/MBProgressHUD.git", branch: "main")
+        .package(url: "https://github.com/jdg/MBProgressHUD.git", .upToNextMajor(from: "1.2.0"))
     ],
     targets: [
         .target(
