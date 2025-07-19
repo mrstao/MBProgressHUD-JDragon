@@ -68,30 +68,30 @@
 		59ED98F28121189D210E22D60F280AF3 /* Pods-MBProgressHUD-JDragonDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-JDragonDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		5CFC912EBB0841D2DF7869E9E8B34D41 /* Pods-MBProgressHUD-JDragonDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MBProgressHUD-JDragonDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		5EC61E55DA91FBCB49277A199F6A554B /* Pods-MBProgressHUD-JDragonDemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-JDragonDemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		60D5970327D85FAD88D042B017E8A3F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		60D5970327D85FAD88D042B017E8A3F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6C009FE03B17D2F8F0AC9762FC9399AE /* Pods-MBProgressHUD-JDragonDemoUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-JDragonDemoUITests-dummy.m"; sourceTree = "<group>"; };
-		75169F00FFEE6A532088BE273B26719B /* Pods-MBProgressHUD-JDragonDemoUITests */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-MBProgressHUD-JDragonDemoUITests"; path = "libPods-MBProgressHUD-JDragonDemoUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		75169F00FFEE6A532088BE273B26719B /* libPods-MBProgressHUD-JDragonDemoUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MBProgressHUD-JDragonDemoUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D25DB9D1A358BA1FDC3D3602180CCF2 /* Pods-MBProgressHUD-JDragonDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MBProgressHUD-JDragonDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		86D46C8E7D7350696CBF2A465FC5DFD7 /* Pods-MBProgressHUD-JDragonDemo */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-MBProgressHUD-JDragonDemo"; path = "libPods-MBProgressHUD-JDragonDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		86D46C8E7D7350696CBF2A465FC5DFD7 /* libPods-MBProgressHUD-JDragonDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MBProgressHUD-JDragonDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AE071F825AE363434A583174A0AFB40 /* Pods-MBProgressHUD-JDragonDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MBProgressHUD-JDragonDemo-resources.sh"; sourceTree = "<group>"; };
 		8B8872A0E397E74D43C064459959FFF1 /* MBProgressHUD+JDragon.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "MBProgressHUD+JDragon.debug.xcconfig"; sourceTree = "<group>"; };
-		8B8FAB0D627B17EDE1366984278705D9 /* MBProgressHUD */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = MBProgressHUD; path = libMBProgressHUD.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B8FAB0D627B17EDE1366984278705D9 /* libMBProgressHUD.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMBProgressHUD.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FA3158F3E14F44D696492FEBB1E4510 /* Pods-MBProgressHUD-JDragonDemoUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MBProgressHUD-JDragonDemoUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9068512326E404A40B37795E3740463E /* MBProgressHUD+JDragon.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "MBProgressHUD+JDragon.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9068512326E404A40B37795E3740463E /* MBProgressHUD+JDragon.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "MBProgressHUD+JDragon.podspec"; sourceTree = "<group>"; tabWidth = 2; };
 		926AFC8A43638A5C8F4208988BB8E825 /* MBProgressHUD+JDragon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MBProgressHUD+JDragon.h"; path = "MBProgressHUD+JDragon/MBProgressHUD+JDragon.h"; sourceTree = "<group>"; };
 		95F34714804A4D39336144BA440C24F0 /* Pods-MBProgressHUD-JDragonDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-JDragonDemo-dummy.m"; sourceTree = "<group>"; };
 		9B5C3411EE62A208F554381743293072 /* MBProgressHUD.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MBProgressHUD.debug.xcconfig; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A97A9CA1242AB906ED8AE38D28A0C8A8 /* Pods-MBProgressHUD-JDragonDemoUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MBProgressHUD-JDragonDemoUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A99CE81BA32CAAB71FB1E322A2F272DB /* Pods-MBProgressHUD-JDragonDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-JDragonDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		AD597715A1380DC6258EABB1294BD4DD /* MBProgressHUD-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD-prefix.pch"; sourceTree = "<group>"; };
 		AD85163BFB8A8873B7BB2B2EA834E79D /* Pods-MBProgressHUD-JDragonDemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MBProgressHUD-JDragonDemoTests-dummy.m"; sourceTree = "<group>"; };
-		B047BCEE7843AC92FAE58B8EAB9FA341 /* MBProgressHUD+JDragon */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "MBProgressHUD+JDragon"; path = "libMBProgressHUD+JDragon.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B047BCEE7843AC92FAE58B8EAB9FA341 /* libMBProgressHUD+JDragon.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libMBProgressHUD+JDragon.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B32CD04F04B232AB0314FFF650CB8392 /* Pods-MBProgressHUD-JDragonDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-JDragonDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
-		BB9388001B87E026B58AC0D09CA4D9DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		BB9388001B87E026B58AC0D09CA4D9DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D32A7514BB4A0017CCC277D1DC5ACFA7 /* Pods-MBProgressHUD-JDragonDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MBProgressHUD-JDragonDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D33168AEEDB292294509B5CA18D61DCF /* MBProgressHUD.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MBProgressHUD.release.xcconfig; sourceTree = "<group>"; };
-		D88AF2FBABBE2559C7523A80053DBC26 /* Pods-MBProgressHUD-JDragonDemoTests */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-MBProgressHUD-JDragonDemoTests"; path = "libPods-MBProgressHUD-JDragonDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D88AF2FBABBE2559C7523A80053DBC26 /* libPods-MBProgressHUD-JDragonDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MBProgressHUD-JDragonDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA9D6972B33B4633D0CF7653193B3341 /* MBProgressHUD+JDragon.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "MBProgressHUD+JDragon.release.xcconfig"; sourceTree = "<group>"; };
 		DFA58CCB57EDA78355DAB85E3602308B /* Pods-MBProgressHUD-JDragonDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MBProgressHUD-JDragonDemo.release.xcconfig"; sourceTree = "<group>"; };
 		E77A433CE0AFD9140EE5995D61B385E7 /* MBProgressHUD+JDragon-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+JDragon-dummy.m"; sourceTree = "<group>"; };
@@ -229,11 +229,11 @@
 		9A02529150B1DB2D8C8024B5ECA7E8E9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8B8FAB0D627B17EDE1366984278705D9 /* MBProgressHUD */,
-				B047BCEE7843AC92FAE58B8EAB9FA341 /* MBProgressHUD+JDragon */,
-				86D46C8E7D7350696CBF2A465FC5DFD7 /* Pods-MBProgressHUD-JDragonDemo */,
-				D88AF2FBABBE2559C7523A80053DBC26 /* Pods-MBProgressHUD-JDragonDemoTests */,
-				75169F00FFEE6A532088BE273B26719B /* Pods-MBProgressHUD-JDragonDemoUITests */,
+				8B8FAB0D627B17EDE1366984278705D9 /* libMBProgressHUD.a */,
+				B047BCEE7843AC92FAE58B8EAB9FA341 /* libMBProgressHUD+JDragon.a */,
+				86D46C8E7D7350696CBF2A465FC5DFD7 /* libPods-MBProgressHUD-JDragonDemo.a */,
+				D88AF2FBABBE2559C7523A80053DBC26 /* libPods-MBProgressHUD-JDragonDemoTests.a */,
+				75169F00FFEE6A532088BE273B26719B /* libPods-MBProgressHUD-JDragonDemoUITests.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -245,7 +245,6 @@
 				59D05D3ADDB126EE6693816A0E256CFE /* MBProgressHUD.m */,
 				99C59C1CFBD673F2DC4506CC3BD027BC /* Support Files */,
 			);
-			name = MBProgressHUD;
 			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
@@ -350,7 +349,7 @@
 			);
 			name = "Pods-MBProgressHUD-JDragonDemo";
 			productName = "Pods-MBProgressHUD-JDragonDemo";
-			productReference = 86D46C8E7D7350696CBF2A465FC5DFD7 /* Pods-MBProgressHUD-JDragonDemo */;
+			productReference = 86D46C8E7D7350696CBF2A465FC5DFD7 /* libPods-MBProgressHUD-JDragonDemo.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		5E32D9F419B5A90D93A5AEDECE9EFF61 /* Pods-MBProgressHUD-JDragonDemoTests */ = {
@@ -368,7 +367,7 @@
 			);
 			name = "Pods-MBProgressHUD-JDragonDemoTests";
 			productName = "Pods-MBProgressHUD-JDragonDemoTests";
-			productReference = D88AF2FBABBE2559C7523A80053DBC26 /* Pods-MBProgressHUD-JDragonDemoTests */;
+			productReference = D88AF2FBABBE2559C7523A80053DBC26 /* libPods-MBProgressHUD-JDragonDemoTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		82B0A41D3031FF27D78E17B0A9A46FB0 /* MBProgressHUD */ = {
@@ -385,7 +384,7 @@
 			);
 			name = MBProgressHUD;
 			productName = MBProgressHUD;
-			productReference = 8B8FAB0D627B17EDE1366984278705D9 /* MBProgressHUD */;
+			productReference = 8B8FAB0D627B17EDE1366984278705D9 /* libMBProgressHUD.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		97EFE1F48DECD2279F5522F9013D0711 /* Pods-MBProgressHUD-JDragonDemoUITests */ = {
@@ -403,7 +402,7 @@
 			);
 			name = "Pods-MBProgressHUD-JDragonDemoUITests";
 			productName = "Pods-MBProgressHUD-JDragonDemoUITests";
-			productReference = 75169F00FFEE6A532088BE273B26719B /* Pods-MBProgressHUD-JDragonDemoUITests */;
+			productReference = 75169F00FFEE6A532088BE273B26719B /* libPods-MBProgressHUD-JDragonDemoUITests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		A089B164C15BD4460C2CB6CBBF6AF032 /* MBProgressHUD+JDragon */ = {
@@ -421,7 +420,7 @@
 			);
 			name = "MBProgressHUD+JDragon";
 			productName = "MBProgressHUD+JDragon";
-			productReference = B047BCEE7843AC92FAE58B8EAB9FA341 /* MBProgressHUD+JDragon */;
+			productReference = B047BCEE7843AC92FAE58B8EAB9FA341 /* libMBProgressHUD+JDragon.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -442,7 +441,6 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			minimizedProjectReferenceProxies = 0;
 			productRefGroup = 9A02529150B1DB2D8C8024B5ECA7E8E9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -675,8 +673,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
