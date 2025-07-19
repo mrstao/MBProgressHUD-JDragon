@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "MBProgressHUD-JDragon",
     platforms: [
-        .iOS(.v8)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -12,7 +12,7 @@ let package = Package(
             targets: ["MBProgressHUD-JDragon"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/jdg/MBProgressHUD.git", .upToNextMajor(from: "1.2.0")),
+        .package(url: "https://github.com/jdg/MBProgressHUD.git", branch: "main")
     ],
     targets: [
         .target(
@@ -21,10 +21,10 @@ let package = Package(
             path: "MBProgressHUD+JDragon",
             exclude: [],
             sources: nil,
-            publicHeadersPath: ".",
-            resources: [                 
+            resources: [
                 .process("MBProgressHUD+JDragon.bundle")
-            ]
+            ],
+            publicHeadersPath: "."
         )
     ]
 )
